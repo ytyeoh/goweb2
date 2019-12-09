@@ -61,13 +61,13 @@ var caption3a = 'Get to know more about our board of direcotr members'
 
 var processes = {
   1:{
-    title: "SYED HASSAN BIN SYED ALI AIDID PKT, PJK", desc: 'Chairman'
+    title: "Company Vision", desc: 'We envision TAS Shipping to shape the future of hyper-efficient regional and global logistics services and comprehensive Supply Chain Management'
   },
   2:{
-    title: "WONG YIM FATT", desc: 'Managing Director'
+    title: "Mission Statement", desc: 'TAS Shipping strives to provide reliable end-to-end Supply Chain Management services while ensuring the effectiveness and efficiency of resources, time and cost.'
   },
   3:{
-    title: "WONG CHEE KEET", desc: 'Executive Director'
+    title: "Quality Assurance", desc: 'TAS Shipping consists of various consultancies and services headed by experts who are compliant to professional and ethical codes, legal frameworks & industry’s standard trading practices.'
   }
 }
 
