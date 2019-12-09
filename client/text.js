@@ -1,7 +1,7 @@
 // header
 var brand = "TAS Shipping"
 var menu = {
-  menu1:'Home', menu2: 'About', menu3: 'Members', menu4:'Services'
+  menu1:'Home', menu2: 'Gallery', menu3: 'About', menu4:'Services'
 }
 
 // background images
@@ -56,8 +56,8 @@ galleries = {
     image: 's6.jpg', title: 'Specialized Logistics', category: 'service'
   }
 }
-var captionH2c= 'Board of Directors'
-var caption3a = 'Get to know more about our board of direcotr members'
+var captionH2c= 'Core Value'
+var caption3a = 'Get to know more about our passion.'
 
 var processes = {
   1:{
