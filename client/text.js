@@ -4,9 +4,7 @@ var menu = {
   menu1:'Home', menu2: 'Gallery', menu3: 'About', menu4:'Services'
 }
 
-// background images
-var background1 = "hero_4.jpg"
-var background2 = "hero_4.jpg"
+
 // section1
 var captionH1 = 'ONE-STOP LOGISTICS SOLUTION '
 var caption1a = 'As one of the best Malaysia’s one-stop logistics solution provider, TAS Shipping is a leader in enhancing their logistics operations for companies.'
@@ -16,16 +14,16 @@ var captionH2a = 'We truly believe in the importance of knowledge and industry e
 var caption1b = 'Tas Shipping founded in 1990, we have grown by leaps and bound in the past 26 years, gathering vital knowledge which has since armed us to provide high-quality services in the world of logistics.'
 var numbers = {
   number1: {
-    quantity: "245", title: 'customers'
+    quantity: "20", title: 'feet container'
   },
   number2: {
-    quantity: "15", title: 'Case'
+    quantity: "40", title: 'feet container'
   },
   number3: {
-    quantity: "99", title: 'projects'
+    quantity: "40", title: 'feet high cube'
   },
   number4: {
-    quantity: "55", title: 'sales'
+    quantity: "45", title: 'feet container'
   }
 }
 var welcomeImageR1 = 'about_1.jpg'
